@@ -152,3 +152,65 @@ gwp_str=str(gross_world_product)
 answer_8="In 2018 gross product of the world (GWP) was " + gwp_str + " in trillion US dollars."
 print(answer_8)
 ```
+# Exercise 17
+
+## Exercise 17-a
+```Python
+wrd="Toscana"
+#Type your answer here.
+ans_1= wrd[:4]
+print(ans_1)
+```
+
+## Exercise 17-b
+```Python
+wrd="Toscana"
+#Type your answer here.
+ans_1= wrd[-4:]
+print(ans_1)
+```
+
+## Exercise 17-c
+```Python
+```
+
+## Exercise 17-d
+```Python
+wrd="Toscana"
+# Type your answer here.
+ans_1= wrd[::2]
+print (ans_1)
+```
+
+## Exercise 17-e
+```Python
+wrd="Toscana"
+# Type your answer here.
+ans_1= wrd[1:-1:2]
+print(ans_1)
+```
+
+## Exercise 17-f
+```Python
+lst=[0,1,2,3,4]
+# Type your answer here.
+ans_1 = lst[::-1]
+print(ans_1)
+```
+
+## Exercise 17-g
+```Python
+lst=[0,1,2,3,4]
+# Type your answer here.
+ans_1=lst[-2:]
+print(ans_1)
+```
+
+## Exercise 17-h
+```Python
+lst=[40,50,20,30,90]
+# Type your answer here.
+ans_1=lst[1:3]
+print(ans_1)
+```
+
