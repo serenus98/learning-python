@@ -12,6 +12,8 @@ a is greater than b so the code prints "Hello World"
 
 # for loop
 
+The *else:* block in a for loop is not executed after a break statement.
+
 ## Exercise
 
 ```Pyhton
